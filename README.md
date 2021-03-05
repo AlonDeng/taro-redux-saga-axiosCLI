@@ -3,7 +3,7 @@ taro + redux + saga + axios + hook ###CLI
 
 usage:
 
-#git clone 
+#git clone https://github.com/AlonDeng/taro-redux-saga-axiosCLI.git
 
 #npm i 
 or
