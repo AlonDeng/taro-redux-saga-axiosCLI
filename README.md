@@ -1,1 +1,12 @@
-taro + redux + saga + hook 脚手架
+taro + redux + saga + axios + hook ###CLI
+
+
+usage:
+
+#git clone 
+
+#npm i 
+or
+#yarn
+
+#yarn dev:weapp
